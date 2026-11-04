@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "min_cascaron": "1.0.0",
-  "archivo": "app-1.0.0.zip",
-  "sha256": "61f82eb43dd2f839b6d68ceef69cda4ac1d135158311bba72cfa1747d0678d70",
-  "firma": "e78syJD6b423Er58vvYQzckdHbzpr+IkUCqaqf2pe40KZVMsBCOsk08vxcNDSoP95MSsyIcMxO6WAw+mwBzrAQ==",
+  "archivo": "app-1.0.1.zip",
+  "sha256": "f709e9de374aedc9509350b740412a774255d4a5e076c7458352eb62251a360b",
+  "firma": "sLPr74o8QeFoUUnN1C8QsAi6n+m6OgA024RZOwyGvvdr1Jh4oSWMVFmA/ukB7dIRs3HYFdGges5MetE9bhzABw==",
   "notas": ""
 }
