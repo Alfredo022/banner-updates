@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "min_cascaron": "1.0.0",
-  "archivo": "app-1.0.1.zip",
-  "sha256": "f709e9de374aedc9509350b740412a774255d4a5e076c7458352eb62251a360b",
-  "firma": "sLPr74o8QeFoUUnN1C8QsAi6n+m6OgA024RZOwyGvvdr1Jh4oSWMVFmA/ukB7dIRs3HYFdGges5MetE9bhzABw==",
-  "notas": ""
+  "archivo": "app-1.1.0.zip",
+  "sha256": "e099023203385f9340d9a4fcf4ac357bd89ba2ffe4c134b1a487f4e0356ab6e7",
+  "firma": "TVAXyi8AQJwg+TvAMrCXExSx0mb3PWdG1D6x0ukL0o7mYxjw43AI8WX9NcexzJTaLa1pmo7vlVxfy8JUdMPXDA==",
+  "notas": "Agregar programa 502 y recarga automática"
 }
