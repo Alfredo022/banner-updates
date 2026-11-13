@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "min_cascaron": "1.0.0",
-  "archivo": "app-1.1.0.zip",
-  "sha256": "e099023203385f9340d9a4fcf4ac357bd89ba2ffe4c134b1a487f4e0356ab6e7",
-  "firma": "TVAXyi8AQJwg+TvAMrCXExSx0mb3PWdG1D6x0ukL0o7mYxjw43AI8WX9NcexzJTaLa1pmo7vlVxfy8JUdMPXDA==",
-  "notas": "Agregar programa 502 y recarga automática"
+  "archivo": "app-1.2.0.zip",
+  "sha256": "8a5df0916a1078874c7b905ce3ee977c6e607625db612d3b37326da5a4396cdb",
+  "firma": "f3JPhzwh6CsCfJa6hyIhlI9tD6OVIQNMAhxj85oe2kqRwnJzE8Ildg7MvHpIU9q1JRqLYx3RUKQPPdqKiYwmCA==",
+  "notas": "Agregar programas: varios códigos por NRC (NRC,código,código); corrección del paginador duplicado; menú reordenado"
 }
